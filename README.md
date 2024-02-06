@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruv572
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently pursuing my bachelor's
+- 👀 I’m interested in Networking and Cybersec
+- 🌱 I’m currently pursuing my Master's
 - 📫 How to reach me ... vermadhruv572@gmail.com
 
 <!---

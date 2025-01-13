@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dhruv572
-- 👀 I’m interested in Networking and Cybersec
+- 👋 Hi, I’m Dhruv :)
+- 👀 I’m interested in Networking, Devops, Cloud computing and automation, Cybersec
 - 🌱 I’m currently pursuing my Master's
 - 📫 How to reach me ... vermadhruv572@gmail.com
 

@@ -6,7 +6,7 @@
   
 - 📫 How to reach me ... vermadhruv572@gmail.com
 
-- 📄 Know more about me in my [Resume](https://drive.google.com/file/d/1ds3IBSmc6-fwBgQtOURVFrgbGEQKxJvv/view?usp=drive_link)
+- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1ds3IBSmc6-fwBgQtOURVFrgbGEQKxJvv/view?usp=drive_link)
 
 
 # 💻 Tech Stack:

@@ -14,6 +14,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv572&show_icons=true&locale=en&layout=compact" alt="dhruv572" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv572&show_icons=true&locale=en" alt="dhruv572" /></p>
 <!--- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 dhruv572/dhruv572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently pursuing my Master's
   
-- 📫 How to reach me ... vermadhruv572@gmail.com
+- 📫 Reach me: vermadhruv572@gmail.com, Work: dhruv.verma@snapmint.com
 
 - 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1ds3IBSmc6-fwBgQtOURVFrgbGEQKxJvv/view?usp=drive_link)
 

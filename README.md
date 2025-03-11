@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Dhruv :)
 
-- 👨‍💻 Proficient in Networking, DevOps, AWS, Bash Scripting, Cloud computing and automation, Cybersec  
+- 🔭 Proficient in Networking, DevOps, AWS, Bash Scripting, Cloud computing and automation, Cybersec  
+
+- 👨‍💻 Currently working as a DevOps Intern at Snapmint
 
 - 🌱 I’m currently pursuing my Master's
   

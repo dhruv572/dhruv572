@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Dhruv :)
 
-- 👨‍💻 Currently working as a DevOps Intern at Snapmint
+- 👨‍💻 Ex-DevOps Intern at Snapmint
 
 - 🔭 Proficient in Networking, DevOps, AWS, Bash Scripting, Cloud computing and automation, Cybersec  
 
 - 🌱 I’m currently pursuing my Master's
   
-- 📫 Reach me: vermadhruv572@gmail.com, Work: dhruv.verma@snapmint.com
+- 📫 Reach me: vermadhruv572@gmail.com
 
 - 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1ds3IBSmc6-fwBgQtOURVFrgbGEQKxJvv/view?usp=drive_link)
 

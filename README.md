@@ -4,7 +4,7 @@
 
 - 🔭 Proficient in Networking, DevOps, AWS, Bash Scripting, Cloud computing and automation, Cybersec  
 
-- 🌱 I’m currently pursuing my Master's
+- 🌱 Recent Master's Grad (M.C.A)
   
 - 📫 Reach me: vermadhruv572@gmail.com
 

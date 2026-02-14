@@ -10,8 +10,6 @@
 
 - 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1nTkZ2D698WTWGygGiyiznHue4Qrdtr7L/view?usp=sharing)
 
-- AWS Certified Academy Cloud Foundations - ![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20241118-26-gs5iey_page-0001](https://github.com/user-attachments/assets/043174df-2e41-402f-8db0-bf91db4c19ca)
-
 
 
 ## 💻 Tech Stack:

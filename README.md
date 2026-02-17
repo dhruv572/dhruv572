@@ -8,7 +8,7 @@
   
 - 📫 Reach me: vermadhruv572@gmail.com
 
-- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1nTkZ2D698WTWGygGiyiznHue4Qrdtr7L/view?usp=sharing)
+- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1WIaMPxw3PhtObIrJMupaw5uOKXguT0AA/view?usp=sharing)
 
 
 

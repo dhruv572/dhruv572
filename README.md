@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Dhruv :)
 
-- 👨‍💻 Ex-DevOps Intern at Snapmint
-
 - 🔭 Proficient in Networking, DevOps, AWS, Bash Scripting, Cloud computing and automation, Cybersec  
-
-- 🌱 Recent Master's Grad (M.C.A)
   
 - 📫 Reach me: vermadhruv572@gmail.com
 

@@ -15,4 +15,5 @@
 <!--- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 dhruv572/dhruv572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+BITWARDEN MASTER PWD = DDVVddvvdd#5@
 --->

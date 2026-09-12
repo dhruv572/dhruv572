@@ -113,7 +113,6 @@ I'm always interested in discussing **DevOps, Cloud, Kubernetes, automation, inf
 
 📫 **Email:** `vermadhruv572@gmail.com`
 
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/1WIaMPxw3PhtObIrJMupaw5uOKXguT0AA/view?usp=sharing)
 
 ---
 

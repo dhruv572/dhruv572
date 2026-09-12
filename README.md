@@ -11,7 +11,6 @@ I work across **cloud infrastructure, CI/CD, containerization, Kubernetes, infra
 - 🛠️ **I enjoy:** Automating repetitive work, troubleshooting production issues, optimizing infrastructure & breaking things (then fixing them)
 - 🌱 **Currently exploring:** Advanced Kubernetes, Cloud Security, Observability & scalable infrastructure
 - 📫 **Reach me:** `vermadhruv572@gmail.com`
-- 📄 **Know more about me:** [Resume](https://drive.google.com/file/d/1WIaMPxw3PhtObIrJMupaw5uOKXguT0AA/view?usp=sharing)
 
 ---
 
@@ -101,17 +100,9 @@ I work across **cloud infrastructure, CI/CD, containerization, Kubernetes, infra
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhruv572&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Dhruv-Verma-Clinikally&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing **DevOps, Cloud, Kubernetes, automation, infrastructure, security, or cool technical projects**.
-
-📫 **Email:** `vermadhruv572@gmail.com`
 
 
 ---

@@ -84,29 +84,6 @@ I work across **cloud infrastructure, CI/CD, containerization, Kubernetes, infra
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhruv572&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv572&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dhruv-Verma-Clinikally&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
----
-
 <div align="center">
 
 ### ⚙️ Automate. Deploy. Monitor. Repeat.

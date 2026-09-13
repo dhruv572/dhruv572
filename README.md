@@ -1,20 +1,12 @@
-# 👋 Hi, I'm Dhruv!
-
 ### DevOps Engineer | Cloud | Automation | Infrastructure
 
 I'm a **DevOps Engineer** passionate about building reliable infrastructure, automating everything I can, and making deployments boring — in the best possible way.
 
 I work across **cloud infrastructure, CI/CD, containerization, Kubernetes, infrastructure as code, networking, monitoring, and security**, with a strong focus on automation and operational reliability.
 
-- 🔭 **Currently working with:** AWS, Azure, Kubernetes, Docker, Terraform, CI/CD & Cloud Infrastructure
-- ⚙️ **Interested in:** DevOps, DevSecOps, Cloud Engineering, Infrastructure Automation & SRE
-- 🛠️ **I enjoy:** Automating repetitive work, troubleshooting production issues, optimizing infrastructure & breaking things (then fixing them)
-- 🌱 **Currently exploring:** Advanced Kubernetes, Cloud Security, Observability & scalable infrastructure
-- 📫 **Reach me:** `vermadhruv572@gmail.com`
-
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### ☁️ Cloud & Infrastructure
 
